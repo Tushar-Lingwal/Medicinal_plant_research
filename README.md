@@ -1,1 +1,4 @@
 # Medicinal_plant_research
+## Identification of Different Medicinal Plants through Image Processing: A Comparative Study Using Various Performance Metrics
+
+This research project aims to develop and assess a machine learning-based method for identifying medicinal plants through image processing. Several Convolutional Neural Network (CNN) models, including Xception, DenseNet201, ResNet50, and MobileNetV2, will be employed to classify images of various medicinal plants. The study will evaluate the performance of these models using multiple metrics, such as accuracy, precision, recall, and F1-score, to gain insights into their effectiveness. By addressing gaps in current identification methods, this research seeks to provide a reliable and efficient approach for medicinal plant identification, benefiting both traditional medicine practitioners and modern pharmacological research.
